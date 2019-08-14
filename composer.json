@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "Quick View allows you to quickly view and add a product to cart (without opening the product view page). Quickview shows you all the necessary product information in a fancy popup box.",
+    "description": "Quick View allows you to quickly view and add a product to cart in a fancy popup box.",
     "authors": [
     {
         "name": "Hemant kumar sharma",
