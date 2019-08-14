@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Dextrous_Quickview",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Quick View allows you to quickly view and add a product to cart (without opening the product view page). Quickview shows you all the necessary product information in a fancy popup box.",
+    "authors": [
+    {
+        "name": "Hemant kumar sharma",
+        "email": "hemant7677@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
