@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Quick View allows you to quickly view and add a product to cart in a fancy popup box.

@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dextrous_Quickview",
+    "name": "openmage-module-fostering\/dextrous_quickview",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Quick View allows you to quickly view and add a product to cart in a fancy popup box.",
     "authors": [
